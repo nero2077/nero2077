@@ -5,3 +5,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nero2077&layout=default&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+![enter image description here](https://www.codewars.com/users/Nero2077/badges/large)
